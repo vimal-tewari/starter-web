@@ -6,3 +6,4 @@ This is a new line
 This is yet another line
 This is yet yet yet another line
 This is yet yet yet yet another line
+This is line number 6
