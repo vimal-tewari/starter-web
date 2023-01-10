@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## COPYRIGHT
-git training 2022 copyright.
+Git Training 2022 Copyright.
